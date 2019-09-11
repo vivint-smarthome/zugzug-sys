@@ -1,0 +1,2 @@
+[registries]
+vivint-public = { index = "https://dl.cloudsmith.io/public/vivint/public/cargo/index.git" }
